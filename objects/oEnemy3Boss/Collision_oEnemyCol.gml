@@ -1,0 +1,2 @@
+hspd = -hspd;
+diveSpeed = -diveSpeed;

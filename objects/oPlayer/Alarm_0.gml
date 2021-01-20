@@ -1,0 +1,1 @@
+playerHP -= 1;
