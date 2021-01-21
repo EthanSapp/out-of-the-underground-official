@@ -6,7 +6,6 @@
     {"id":{"name":"playerStateJump","path":"scripts/playerStateJump/playerStateJump.yy",},"order":3,},
     {"id":{"name":"playerStateFly","path":"scripts/playerStateFly/playerStateFly.yy",},"order":5,},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},"order":7,},
-    {"id":{"name":"rBoss2","path":"rooms/rBoss2/rBoss2.yy",},"order":6,},
     {"id":{"name":"sPlayerRun","path":"sprites/sPlayerRun/sPlayerRun.yy",},"order":2,},
     {"id":{"name":"sndJump","path":"sounds/sndJump/sndJump.yy",},"order":1,},
     {"id":{"name":"sTitlesBackgound","path":"sprites/sTitlesBackgound/sTitlesBackgound.yy",},"order":31,},
@@ -118,7 +117,6 @@
     {"roomId":{"name":"rLevel5","path":"rooms/rLevel5/rLevel5.yy",},},
     {"roomId":{"name":"rLevel5End","path":"rooms/rLevel5End/rLevel5End.yy",},},
     {"roomId":{"name":"rBoss1","path":"rooms/rBoss1/rBoss1.yy",},},
-    {"roomId":{"name":"rBoss2","path":"rooms/rBoss2/rBoss2.yy",},},
     {"roomId":{"name":"rEnd","path":"rooms/rEnd/rEnd.yy",},},
   ],
   "Folders": [
@@ -151,14 +149,14 @@
     {"folderPath":"folders/Rooms/Boss 1.yy","order":9,"resourceVersion":"1.0","name":"Boss 1","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
-    {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.536",
+    "IDEVersion": "2.3.1.542",
   },
   "resourceVersion": "1.4",
   "name": "out of the underground",

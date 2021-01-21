@@ -69,14 +69,6 @@ if (room = rLevel5){
 	//draw_text(x + 255, y - 1281, "Level 2");
 }
 
-
-if (room = rBoss2){
-	draw_set_font(fGame);
-	draw_text(x + 365, y + 32, "Boss 2");
-	//draw_text(x + 365, y + 64, "Time Remaining: " + string(level2BossTimeMain));
-	//draw_text(x + 255, y - 1281, "Level 2");
-}
-
 if (room = rTitles){
 	draw_set_font(fTitles);
 	draw_set_color(c_red);
